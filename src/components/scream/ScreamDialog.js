@@ -39,7 +39,7 @@ const styles = {
   profileImage: {
     maxWidth: 200,
     height: 200,
-    borderRadius: "50%",
+    // borderRadius: "50%",
     objectFit: "cover",
   },
 
